@@ -1,0 +1,77 @@
+h2 {
+ margin: auto;
+}
+div {
+ margin-top: 2px;
+ text-align: center;
+}
+#header{
+ background: #CD5C5C;
+ height: 100px;
+}
+#container {
+ width: auto;
+}
+
+#navigation {
+ background: #afdeff;
+ height: 40px;
+}
+#content {
+ background: #1E90FF;
+ float: left;
+ width: 70%;
+ height: 160px;
+}
+#content2 {
+ background: #F0E68C;
+ float: left;
+ width: 70%;
+ height: 280px;
+}
+#sidebar {
+ background: #FFDAB9;
+ float: right;
+ width: 30%;
+  height: 300px;
+}
+#clear {
+ clear: both;
+}
+footer {
+ margin-top: 4px;
+ background: #CD5C5C;
+ height: 45px;
+}
+ul, li {
+  margin:0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+  width: 100%;
+}
+
+li {
+  float: left;
+  width: auto;
+}
+a {
+  background: DarkRed;
+  color: Cornsilk;
+  display: block;
+  font: bold 13px sans-serif;
+  padding: 30px 180px;
+  text-align: center;
+  text-decoration: none;
+}
+
+li:hover a {
+  background: #000000;
+}
+body{
+  background-color:lightgreen;
+  background-image:
+url('https://kartinkin.net/uploads/posts/2020-07/1593799533_4-p-fon-klubnika-9.jpg');
+  background-size: cover;
+}
